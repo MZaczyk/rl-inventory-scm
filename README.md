@@ -4,7 +4,6 @@ Simulation code for the paper:
 
 > Zaczyk, M. (2025). *Reinforcement Learning for Inventory Management under Supply Chain
 > Disruptions: A Multi-Agent Simulation Study with Stochastic Lead Times.*
-> Submitted to Computers & Operations Research.
 
 ---
 
